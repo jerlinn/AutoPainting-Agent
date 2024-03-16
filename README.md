@@ -7,7 +7,8 @@
 ## Todo  
 - [x] 主 prompt（10 分钟快速构建）
 - [ ] LLM API 调用版本  
-- [ ] 主 prompt 细节优化  
+- [ ] 主 prompt 细节优化
+- [ ] 知识库
 - [ ] 兼容国内外、主流的 LLM（ChatGPT、Claude、Gemini、Kimi、豆包等）
 - [ ] 兼容主流的 AI 绘图工具，目前 MJ 为主
 
