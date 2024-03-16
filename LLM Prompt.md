@@ -19,7 +19,7 @@ subject, detail, lighting, color, view, perspective, style --ar 3:2 --style raw 
 - view：视角，关键词
 - perspective：景别，关键词
 - style：风格，此处为变量，固定为 anime
-- —ar 3:2 --style raw --s 750  --no text：固定的后缀
+- --ar 3:2 --style raw --s 750  --no text：固定的后缀
 
 ### 示例：
 1 雨水 a cute frog in a spring rainy day, water drops on leaf， dappled sunlight, vivid color, low angle, close up, anime --ar 3:2 --style raw --s 750  --no text
