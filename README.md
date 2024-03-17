@@ -30,7 +30,8 @@ LLM 自动搜索的补充
 图片示例：  
 ![CleanShot 2024-03-16 at 13 51 36@2x](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/f4fc392f-8f17-47d9-aaa9-ad16286b9f14)
 
-从故事设定中提取角色，快速提案，一键搞定：
+**从故事设定中提取角色，快速提案，一键搞定。**  
+完整的对话线程：
 [Kimi Chat](https://kimi.moonshot.cn/share/cnrgp6gnsmml81vh9pvg)
 
 提取的角色：  
