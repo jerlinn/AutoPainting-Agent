@@ -35,4 +35,7 @@ LLM 自动搜索的补充
 [Kimi Chat](https://kimi.moonshot.cn/share/cnrgp6gnsmml81vh9pvg)
 
 提取的角色：  
-![sample22](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/a71edfd1-ee60-40d8-b367-f91f059d4e74)
+![sample22](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/fe252242-9a3c-4d45-b6c7-8107c47d92e1)
+![sample223](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/47e74ddd-3613-402d-8260-5b2b4b6b93f4)
+
+
