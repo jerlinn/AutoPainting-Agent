@@ -1,16 +1,16 @@
-## 领域展开，绘图工作流新解法  
+## 领域展开，智能绘图工作流新解法  
 > 一个自动绘画 Agent, 用户输入一个概念，通过 LLM 自动构建配套的 Image Prompt，可通过 API 自动对接出图。
 
 ✅ 一键展开：重塑创作者的工作流，利用 AI 副驾驶来帮你创造更大的价值，事半功倍。
-✅ 不再需要埋头写 Prompt,将重心转移到工程化、自动化。（即使你已经能够徒手写出完美的绘图 Prompt，效率依然被吊打。）
+✅ 不再需要埋头写 Prompt，将提效的重心转移到工程化、自动化。（即使你已经能够徒手写出完美的绘图 Prompt，效率依然被吊打。）
 
 ## Todo  
 - [x] 主 prompt（10 分钟快速构建）
 - [ ] LLM API 调用版本  
 - [ ] 主 prompt 细节优化
-- [ ] 知识库
+- [ ] 基础知识库
 - [ ] 兼容国内外、主流的 LLM（ChatGPT、Claude、Gemini、Kimi、豆包等）
-- [ ] 兼容主流的 AI 绘图工具，目前 MJ 为主
+- [ ] 兼容主流的 AI 绘图工具，目前以 Midjourney 为主
 
 ## 示例  
 Part 1  
@@ -33,3 +33,5 @@ LLM 自动搜索的补充
 从故事设定中提取角色，快速提案，一键搞定：
 [Kimi Chat](https://kimi.moonshot.cn/share/cnrgp6gnsmml81vh9pvg)
 
+提取的角色：  
+![sample22](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/a71edfd1-ee60-40d8-b367-f91f059d4e74)
