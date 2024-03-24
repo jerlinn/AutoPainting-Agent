@@ -38,4 +38,8 @@ LLM 自动搜索的补充
 ![sample22](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/fe252242-9a3c-4d45-b6c7-8107c47d92e1)
 ![sample223](https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/47e74ddd-3613-402d-8260-5b2b4b6b93f4)
 
+**将 Suno AI 创作的音乐转换为 MV**
+https://github.com/jerlinn/AutoPainting-Agent/assets/91647085/b08972c8-6346-4aca-9f56-810b0faa6337
+
+
 
